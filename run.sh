@@ -1,0 +1,1 @@
+cat TerminalDevelop.csv | ./makevcf
